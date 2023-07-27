@@ -29,8 +29,8 @@ def wishMe():
         print("Hello, Good Evening!")
         speak("Hello, Good Evening!")
 
-    print("I am Johnathan, please tell me how I can help you?")
-    speak("I am Johnathan, please tell me how I can help you?")
+    print("I am Johnathan, how can I help you?")
+    speak("I am Johnathan, how can I help you?")
 
 
 def takeCommand():
